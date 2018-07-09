@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchForAFile", "SearchForAFile\SearchForAFile.csproj", "{09100B77-95F9-44AB-A614-CC7E25C2F8D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsolatedStorageDemo", "IsolatedStorageDemo\IsolatedStorageDemo.csproj", "{6A7D727B-85DB-4376-9CCD-E311E5406850}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{09100B77-95F9-44AB-A614-CC7E25C2F8D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09100B77-95F9-44AB-A614-CC7E25C2F8D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09100B77-95F9-44AB-A614-CC7E25C2F8D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A7D727B-85DB-4376-9CCD-E311E5406850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7D727B-85DB-4376-9CCD-E311E5406850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7D727B-85DB-4376-9CCD-E311E5406850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7D727B-85DB-4376-9CCD-E311E5406850}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
